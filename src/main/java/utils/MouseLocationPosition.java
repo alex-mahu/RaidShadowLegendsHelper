@@ -1,6 +1,5 @@
 package utils;
 
-import vault.NamingConstants;
 import vault.Settings;
 
 import javax.swing.*;
